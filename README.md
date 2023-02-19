@@ -1,7 +1,5 @@
--👋嗨，我是@ Aiden-L
+-👋嗨，我是Aiden
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning JavaWeb
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Cyber Security
 
--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden-l&theme=dark&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden-l&theme=merko&show_icons=true)
