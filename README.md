@@ -1,4 +1,4 @@
--👋嗨，我是Aiden
+- 👋 I’mAiden
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Cyber Security
 
