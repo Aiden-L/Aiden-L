@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=%F0%9F%8C%B1+My+Favourite+language+is+Python)](https://git.io/typing-svg)
 
-- [Visit my Blog in CSDN](https://blog.csdn.net/weixin_46065314)
+- [Visit my Blogs in CSDN](https://blog.csdn.net/weixin_46065314)
 
 <img style="width: 400px;" src="https://stats.justsong.cn/api/csdn?id=weixin_46065314&theme=merko"/>
 
-- [Visit my Repository in Gitee](https://gitee.com/xingzhouren)
+- [Visit my Repositories in Gitee](https://gitee.com/xingzhouren)
